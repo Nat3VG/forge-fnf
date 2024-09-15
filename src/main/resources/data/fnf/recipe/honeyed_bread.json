@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "pattern": [
+    "H#"
+  ],
+  "key":{
+    "H": {
+      "item": "minecraft:honey_bottle"
+    },
+    "#": {
+      "item": "minecraft:bread"
+    }
+  },
+  "result": {
+    "id": "fnf:honeyed_bread",
+    "count": 1
+  }
+}

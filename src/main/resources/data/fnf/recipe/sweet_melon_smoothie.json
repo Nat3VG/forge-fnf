@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " S ",
+    "MBM",
+    " M "
+  ],
+  "key":{
+    "B": {
+      "item": "minecraft:sweet_berries"
+    },
+    "M": {
+      "item": "minecraft:melon_slice"
+    },
+    "S": {
+      "item": "minecraft:snowball"
+    }
+  },
+  "result": {
+    "id": "fnf:sweet_melon_smoothie",
+    "count": 1
+  }
+}

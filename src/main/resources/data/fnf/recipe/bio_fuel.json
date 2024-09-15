@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "MBM",
+    "BOB",
+    "MBM"
+  ],
+  "key":{
+    "B": {
+      "item": "minecraft:beetroot"
+    },
+    "O": {
+      "item": "minecraft:bone_meal"
+    },
+    "M": {
+      "item": "minecraft:moss_block"
+    }
+  },
+  "result": {
+    "id": "fnf:biofuel",
+    "count": 4
+  }
+}
