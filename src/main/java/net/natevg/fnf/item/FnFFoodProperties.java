@@ -16,6 +16,10 @@ public class FnFFoodProperties {
             .saturationModifier(0.6f)
             .effect(new MobEffectInstance(MobEffects.WATER_BREATHING, 600), 1.0f)
             .build();
+    public static final FoodProperties COOKED_CARROT = new FoodProperties.Builder()
+            .nutrition(5)
+            .saturationModifier(0.6f)
+            .build();
     public static final FoodProperties HONEYED_BREAD = new FoodProperties.Builder()
             .nutrition(11)
             .saturationModifier(0.7f)
