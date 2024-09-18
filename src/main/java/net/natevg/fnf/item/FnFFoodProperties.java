@@ -20,6 +20,10 @@ public class FnFFoodProperties {
             .nutrition(5)
             .saturationModifier(0.6f)
             .build();
+    public static final FoodProperties ROASTED_BEETROOT = new FoodProperties.Builder()
+            .nutrition(5)
+            .saturationModifier(0.6f)
+            .build();
     public static final FoodProperties HONEYED_BREAD = new FoodProperties.Builder()
             .nutrition(11)
             .saturationModifier(0.7f)

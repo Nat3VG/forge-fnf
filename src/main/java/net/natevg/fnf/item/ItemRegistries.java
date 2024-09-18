@@ -17,6 +17,7 @@ public class ItemRegistries {
     public static final RegistryObject<Item> CARROT_BREAD = ITEMS.register("carrot_bread", () -> new Item(new Item.Properties().food(FnFFoodProperties.CARROT_BREAD)));
     public static final RegistryObject<Item> COOKED_TROPICAL_FISH = ITEMS.register("cooked_tropical_fish", () -> new Item(new Item.Properties().food(FnFFoodProperties.COOKED_TROPICAL_FISH)));
     public static final RegistryObject<Item> COOKED_CARROT = ITEMS.register("cooked_carrot", () -> new Item(new Item.Properties().food(FnFFoodProperties.COOKED_CARROT)));
+    public static final RegistryObject<Item> ROASTED_BEETROOT = ITEMS.register("roasted_beetroot", () -> new Item(new Item.Properties().food(FnFFoodProperties.ROASTED_BEETROOT)));
     public static final RegistryObject<Item> HONEYED_BREAD = ITEMS.register("honeyed_bread", () -> new Item(new Item.Properties().food(FnFFoodProperties.HONEYED_BREAD)));
     public static final RegistryObject<Item> HONEYED_CHICKEN = ITEMS.register("honeyed_chicken", () -> new Item(new Item.Properties().food(FnFFoodProperties.HONEYED_CHICKEN)));
     public static final RegistryObject<Item> HONEYED_MUTTON = ITEMS.register("honeyed_mutton", () -> new Item(new Item.Properties().food(FnFFoodProperties.HONEYED_MUTTON)));

@@ -18,6 +18,7 @@ public class FnFCreativeModeTabs {
                     .displayItems((pParameters, output) -> {
                         output.accept(ItemRegistries.CARROT_BREAD.get());
                         output.accept(ItemRegistries.COOKED_CARROT.get());
+                        output.accept(ItemRegistries.ROASTED_BEETROOT.get());
                         output.accept(ItemRegistries.COOKED_TROPICAL_FISH.get());
                         output.accept(ItemRegistries.HONEYED_BREAD.get());
                         output.accept(ItemRegistries.HONEYED_CHICKEN.get());
