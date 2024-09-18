@@ -1,16 +1,13 @@
 {
   "type": "minecraft:crafting_shapeless",
-  "pattern": [
-    "H#"
-  ],
-  "key":{
-    "H": {
+  "ingredients":[
+    {
       "item": "minecraft:honey_bottle"
     },
-    "#": {
+    {
       "item": "minecraft:cooked_beef"
     }
-  },
+  ],
   "result": {
     "id": "fnf:honeyed_steak",
     "count": 1

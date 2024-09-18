@@ -1,14 +1,19 @@
 {
   "type": "minecraft:crafting_shapeless",
-  "pattern": [
-    "BB ",
-    "BB"
-  ],
-  "key":{
-    "B": {
+  "ingredients":[
+    {
+      "item": "minecraft:blaze_rod"
+    },
+    {
+      "item": "minecraft:blaze_rod"
+    },
+    {
+      "item": "minecraft:blaze_rod"
+    },
+    {
       "item": "minecraft:blaze_rod"
     }
-  },
+  ],
   "result": {
     "id": "fnf:blazerod_bundle",
     "count": 1

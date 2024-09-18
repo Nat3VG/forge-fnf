@@ -3,14 +3,14 @@
   "pattern": [
     "H#"
   ],
-  "key":{
-    "H": {
+  "ingredients":[
+    {
       "item": "minecraft:honey_bottle"
     },
-    "#": {
+    {
       "item": "minecraft:cooked_mutton"
     }
-  },
+  ],
   "result": {
     "id": "fnf:honeyed_mutton",
     "count": 1
