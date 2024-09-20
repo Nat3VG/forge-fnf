@@ -20,14 +20,26 @@ public class FnFCreativeModeTabs {
                         output.accept(ItemRegistries.COOKED_CARROT.get());
                         output.accept(ItemRegistries.ROASTED_BEETROOT.get());
                         output.accept(ItemRegistries.COOKED_TROPICAL_FISH.get());
+                        output.accept(ItemRegistries.SWEET_MELON_SMOOTHIE.get());
+
                         output.accept(ItemRegistries.HONEYED_BREAD.get());
                         output.accept(ItemRegistries.HONEYED_CHICKEN.get());
                         output.accept(ItemRegistries.HONEYED_RABBIT.get());
                         output.accept(ItemRegistries.HONEYED_MUTTON.get());
                         output.accept(ItemRegistries.HONEYED_PORKCHOP.get());
                         output.accept(ItemRegistries.HONEYED_STEAK.get());
-                        output.accept(ItemRegistries.SWEET_MELON_SMOOTHIE.get());
+                        output.accept(ItemRegistries.HONEYED_POTATO.get());
 
+                        output.accept(ItemRegistries.KELP_WRAPPED_COD.get());
+                        output.accept(ItemRegistries.KELP_WRAPPED_SALMON.get());
+                        output.accept(ItemRegistries.KELP_WRAPPED_TROPICAL_FISH.get());
+                        output.accept(ItemRegistries.KELP_WRAPPED_VEGGIE_STICKS.get());
+                        output.accept(ItemRegistries.DRIED_KELP_WRAPPED_COD.get());
+                        output.accept(ItemRegistries.DRIED_KELP_WRAPPED_SALMON.get());
+                        output.accept(ItemRegistries.DRIED_KELP_WRAPPED_TROPICAL_FISH.get());
+                        output.accept(ItemRegistries.DRIED_KELP_WRAPPED_VEGGIE_STICKS.get());
+
+                        output.accept(ItemRegistries.PAPER_STACK.get());
                         output.accept(ItemRegistries.BIO_FUEL.get());
                         output.accept(ItemRegistries.BLAZEROD_BUNDLE.get());
                         output.accept(ItemRegistries.BLAZING_COAL.get());
