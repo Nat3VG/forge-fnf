@@ -24,6 +24,14 @@ public class FnFFoodProperties {
             .nutrition(5)
             .saturationModifier(0.6f)
             .build();
+    public static final FoodProperties SWEET_MELON_SMOOTHIE = new FoodProperties.Builder()
+            .nutrition(6)
+            .alwaysEdible()
+            .effect(new MobEffectInstance(MobEffects.REGENERATION, 400), 1.0f)
+            .effect(new MobEffectInstance(MobEffects.FIRE_RESISTANCE, 1200), 1.0f)
+            .build();
+
+    //Honeyed
     public static final FoodProperties HONEYED_BREAD = new FoodProperties.Builder()
             .nutrition(5)
             .saturationModifier(0.6f)
@@ -69,6 +77,8 @@ public class FnFFoodProperties {
             .effect(new MobEffectInstance(MobEffects.DAMAGE_BOOST, 1200), 1.0f)
             .effect(new MobEffectInstance(MobEffects.HEAL, 0), 1.0f)
             .build();
+
+    //Kelp-Wrapped
     public static final FoodProperties KELP_WRAPPED_COD = new FoodProperties.Builder()
             .nutrition(2)
             .saturationModifier(0.2f)
@@ -114,10 +124,5 @@ public class FnFFoodProperties {
             .effect(new MobEffectInstance(MobEffects.DIG_SPEED, 600), 1.0f)
             .effect(new MobEffectInstance(MobEffects.NIGHT_VISION, 600), 1.0f)
             .build();
-    public static final FoodProperties SWEET_MELON_SMOOTHIE = new FoodProperties.Builder()
-            .nutrition(6)
-            .alwaysEdible()
-            .effect(new MobEffectInstance(MobEffects.REGENERATION, 400, 1), 1.0f)
-            .effect(new MobEffectInstance(MobEffects.FIRE_RESISTANCE, 1200, 1), 1.0f)
-            .build();
+
 }
