@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients":[
+    {
+      "item": "fnf:paper_stack"
+    }
+  ],
+  "result": {
+    "id": "minecraft:paper",
+    "count": 3
+  }
+}

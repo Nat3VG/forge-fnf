@@ -7,7 +7,7 @@
   ],
   "key":{
     "B": {
-      "item": "minecraft:beetroot"
+      "tag": "forge:crops"
     },
     "O": {
       "item": "minecraft:bone_meal"
