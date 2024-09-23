@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:smelting",
+  "category": "food",
+  "cookingtime": 200,
+  "experience": 0.35,
+  "ingredient": {
+    "item": "fnf:kelp_wrapped_cod"
+  },
+  "result": "fnf:dried_kelp_wrapped_cod"
+
+}

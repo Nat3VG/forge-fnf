@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients":[
+    {
+      "item": "minecraft:tropical_fish"
+    },
+    {
+      "item": "minecraft:kelp"
+    }
+  ],
+  "result": {
+    "item": "fnf:kelp_wrapped_tropical_fish",
+    "count": 1
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "creativetab.fnf.fnf_item": "Food n' Fuel",
+
+  "item.fnf.logo": "FnF Logo",
+  "item.fnf.carrot_bread": "Carrot Bread",
+  "item.fnf.cooked_carrot": "Cooked Carrot",
+  "item.fnf.cooked_tropical_fish": "Cooked Tropical Fish",
+  "item.fnf.roasted_beetroot": "Roasted Beetroot",
+  "item.fnf.sweet_melon_smoothie": "Sweet Melon Smoothie",
+
+  "item.fnf.honeyed_bread": "Honeyed Bread",
+  "item.fnf.honeyed_chicken": "Honeyed Chicken",
+  "item.fnf.honeyed_rabbit": "Honeyed Rabbit",
+  "item.fnf.honeyed_potato": "Honeyed Potato",
+  "item.fnf.honeyed_mutton": "Honeyed Mutton",
+  "item.fnf.honeyed_porkchop": "Honeyed Porkchop",
+  "item.fnf.honeyed_steak": "Honeyed Steak",
+
+  "item.fnf.kelp_wrapped_cod": "Kelp-Wrapped Cod",
+  "item.fnf.kelp_wrapped_salmon": "Kelp-Wrapped Salmon",
+  "item.fnf.kelp_wrapped_tropical_fish": "Kelp-Wrapped Tropical Fish",
+  "item.fnf.kelp_wrapped_veggie_sticks": "Kelp-Wrapped Veggie Sticks",
+
+  "item.fnf.dried_kelp_wrapped_cod": "Dried Kelp-Wrapped Cod",
+  "item.fnf.dried_kelp_wrapped_salmon": "Dried Kelp-Wrapped Salmon",
+  "item.fnf.dried_kelp_wrapped_tropical_fish": "Dried Kelp-Wrapped Tropical Fish",
+  "item.fnf.dried_kelp_wrapped_veggie_sticks": "Dried Kelp-Wrapped Veggie Sticks",
+
+  "item.fnf.paper_stack": "Paper Stack",
+  "item.fnf.bio_fuel": "Biofuel",
+  "item.fnf.blazing_coal": "Blazing Coal",
+  "item.fnf.blazerod_bundle": "Blaze Rod Bundle"
+}

@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients":[
+    {
+      "item": "minecraft:baked_potato"
+    },
+    {
+      "item": "fnf:cooked_carrot"
+    },
+    {
+      "item": "minecraft:dried_kelp"
+    }
+  ],
+  "result": {
+    "item": "fnf:dried_kelp_wrapped_veggie_sticks",
+    "count": 4
+  }
+}

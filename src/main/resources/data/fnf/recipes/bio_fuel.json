@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "MBM",
+    "BOB",
+    "MBM"
+  ],
+  "key":{
+    "B": {
+      "tag": "forge:crops"
+    },
+    "O": {
+      "item": "minecraft:bone_meal"
+    },
+    "M": {
+      "item": "minecraft:moss_block"
+    }
+  },
+  "result": {
+    "item": "fnf:bio_fuel",
+    "count": 4
+  }
+}

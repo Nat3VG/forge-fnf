@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "pattern": [
+    "H#"
+  ],
+  "ingredients":[
+    {
+      "item": "minecraft:honey_bottle"
+    },
+    {
+      "item": "minecraft:cooked_mutton"
+    }
+  ],
+  "result": {
+    "item": "fnf:honeyed_mutton",
+    "count": 1
+  }
+}
