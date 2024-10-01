@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:blasting",
+  "cookingtime": 200,
+  "experience": 0.35,
+  "ingredient": {
+    "item": "fnf:fire_core"
+  },
+  "result": {
+    "id": "fnf:energized_fire_core"
+  }
+}

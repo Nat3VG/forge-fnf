@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:campfire_cooking",
+  "cookingtime": 600,
+  "experience": 0.35,
+  "ingredient": {
+    "item": "minecraft:mushroom_stew"
+  },
+  "result": {
+    "id": "fnf:piping_hot_mushroom_stew"
+  }
+}

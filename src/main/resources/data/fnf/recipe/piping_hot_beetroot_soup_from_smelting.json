@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:smelting",
+  "cookingtime": 200,
+  "experience": 0.35,
+  "ingredient": {
+    "item": "minecraft:beetroot_soup"
+  },
+  "result": {
+    "id": "fnf:piping_hot_beetroot_soup"
+  }
+}

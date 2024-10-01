@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients":[
+    {
+      "item": "minecraft:blaze_powder"
+    },
+    {
+      "item": "fnf:veggie_soup"
+    }
+  ],
+  "result": {
+    "id": "fnf:piping_hot_veggie_soup",
+    "count": 1
+  }
+}

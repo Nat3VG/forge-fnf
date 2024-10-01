@@ -26,8 +26,31 @@
   "item.fnf.dried_kelp_wrapped_tropical_fish": "Dried Kelp-Wrapped Tropical Fish",
   "item.fnf.dried_kelp_wrapped_veggie_sticks": "Dried Kelp-Wrapped Veggie Sticks",
 
+  "item.fnf.veggie_soup": "Veggie Soup",
+  "item.fnf.piping_hot_beetroot_soup": "Piping Hot Beetroot Soup",
+  "item.fnf.piping_hot_veggie_soup": "Piping Hot Veggie Soup",
+  "item.fnf.piping_hot_mushroom_stew": "Piping Hot Mushroom Stew",
+  "item.fnf.piping_hot_rabbit_stew": "Piping Hot Rabbit Stew",
+  "item.fnf.mushroom_chicken_stew": "Mushroom Chicken Stew",
+  "item.fnf.mushroom_mutton_stew": "Mushroom Mutton Stew",
+  "item.fnf.mushroom_beef_stew": "Mushroom Beef Stew",
+  "item.fnf.mushroom_pork_stew": "Mushroom Pork Stew",
+
+  "item.fnf.miners_delight": "Miner's Delight",
+  "item.fnf.farmers_grace": "Farmer's Grace",
+  "item.fnf.highlanders_meal": "Highlander's Meal",
+  "item.fnf.explorers_fancy_cooking": "Explorer's Fancy Cooking",
+  "item.fnf.nether_dwellers_subsistence": "Nether Dweller's Subsistence",
+  "item.fnf.lucky_star": "Lucky Star",
+  "item.fnf.fishermans_secret_broth": "Fisherman's Secret Broth",
+
   "item.fnf.paper_stack": "Paper Stack",
   "item.fnf.bio_fuel": "Biofuel",
   "item.fnf.blazing_coal": "Blazing Coal",
-  "item.fnf.blazerod_bundle": "Blaze Rod Bundle"
+  "item.fnf.blazerod_bundle": "Blaze Rod Bundle",
+
+  "item.fnf.fire_core": "Fire Core",
+  "item.fnf.energized_fire_core": "Energized Fire Core",
+  "item.fnf.soul_fire_core": "Soul Fire Core",
+  "item.fnf.energized_soul_fire_core": "Energized Soul Fire Core"
 }

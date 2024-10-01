@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "MBM",
+    "BCB",
+    "MBM"
+  ],
+  "key":{
+    "B": {
+      "item": "minecraft:blaze_powder"
+    },
+    "C": {
+      "item": "minecraft:fire_charge"
+    },
+    "M": {
+      "item": "minecraft:magma_block"
+    }
+  },
+  "result": {
+    "id": "fnf:fire_core",
+    "count": 1
+  }
+}

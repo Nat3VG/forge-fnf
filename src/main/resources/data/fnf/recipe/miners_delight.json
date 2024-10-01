@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "GCG",
+    "GPG",
+    "GGG"
+  ],
+  "key":{
+    "C": {
+      "item": "minecraft:golden_carrot"
+    },
+    "G": {
+      "item": "minecraft:gold_ingot"
+    },
+    "P": {
+      "item": "fnf:piping_hot_veggie_soup"
+    }
+  },
+  "result": {
+    "id": "fnf:miners_delight",
+    "count": 1
+  }
+}

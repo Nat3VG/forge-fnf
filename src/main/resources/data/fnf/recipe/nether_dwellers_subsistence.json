@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients":[
+    {
+      "item": "minecraft:blaze_rod"
+    },
+    {
+      "item": "minecraft:nether_wart"
+    },
+    {
+      "item": "minecraft:magma_cream"
+    },
+    {
+      "item": "fnf:mushroom_pork_stew"
+    }
+  ],
+  "result": {
+    "id": "fnf:nether_dwellers_subsistence",
+    "count": 1
+  }
+}

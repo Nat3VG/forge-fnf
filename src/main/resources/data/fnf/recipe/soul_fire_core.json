@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "MBM",
+    "BCB",
+    "MBM"
+  ],
+  "key":{
+    "B": {
+      "item": "minecraft:blackstone"
+    },
+    "C": {
+      "item": "fnf:energized_fire_core"
+    },
+    "M": {
+      "item": "minecraft:soul_sand"
+    }
+  },
+  "result": {
+    "id": "fnf:soul_fire_core",
+    "count": 1
+  }
+}

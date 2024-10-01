@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients":[
+    {
+      "item": "minecraft:baked_potato"
+    },
+    {
+      "item": "fnf:cooked_carrot"
+    },
+    {
+      "item": "minecraft:cooked_porkchop"
+    },
+    {
+      "item": "fnf:piping_hot_mushroom_stew"
+    }
+  ],
+  "result": {
+    "id": "fnf:mushroom_pork_stew",
+    "count": 1
+  }
+}

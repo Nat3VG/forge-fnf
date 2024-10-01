@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients":[
+    {
+      "item": "minecraft:beetroot_soup"
+    },
+    {
+      "item": "minecraft:potato"
+    },
+    {
+      "item": "minecraft:carrot"
+    }
+  ],
+  "result": {
+    "id": "fnf:veggie_soup",
+    "count": 1
+  }
+}
