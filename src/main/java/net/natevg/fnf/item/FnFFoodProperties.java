@@ -151,7 +151,7 @@ public class FnFFoodProperties {
             .effect(new MobEffectInstance(MobEffects.REGENERATION, MEDIUM), 1.0F)
             .build();
     public static final FoodProperties PIPING_HOT_RABBIT_STEW = fnfstew(8)
-            .effect(new MobEffectInstance(MobEffects.JUMP, SHORT), 1.0F)
+            .effect(new MobEffectInstance(MobEffects.JUMP, MEDIUM), 1.0F)
             .effect(new MobEffectInstance(MobEffects.REGENERATION, MEDIUM), 1.0F)
             .build();
     public static final FoodProperties PIPING_HOT_VEGGIE_SOUP = fnfstew(8)
