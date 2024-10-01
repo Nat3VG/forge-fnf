@@ -165,7 +165,7 @@ public class FnFFoodProperties {
             .effect(new MobEffectInstance(MobEffects.REGENERATION, MEDIUM), 1.0F)
             .build();
     public static final FoodProperties MUSHROOM_MUTTON_STEW = fnfstew(8)
-            .effect(new MobEffectInstance(MobEffects.DAMAGE_RESISTANCE, LONG), 1.0F)
+            .effect(new MobEffectInstance(MobEffects.DAMAGE_RESISTANCE, LONG,1), 1.0F)
             .effect(new MobEffectInstance(MobEffects.REGENERATION, MEDIUM), 1.0F)
             .build();
     public static final FoodProperties MUSHROOM_BEEF_STEW = fnfstew(8)
