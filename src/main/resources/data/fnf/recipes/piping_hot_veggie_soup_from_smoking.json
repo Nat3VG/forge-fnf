@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:smoking",
+  "category": "food",
+  "cookingtime": 100,
+  "experience": 0.35,
+  "ingredient": {
+    "item": "fnf:veggie_soup"
+  },
+  "result":  "fnf:piping_hot_veggie_soup"
+
+}

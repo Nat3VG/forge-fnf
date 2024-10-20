@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients":[
+    {
+      "item": "fnf:roasted_beetroot"
+    },
+    {
+      "item": "minecraft:egg"
+    },
+    {
+      "item": "fnf:mushroom_beef_stew"
+    }
+  ],
+  "result": {
+    "item": "fnf:farmers_grace",
+    "count": 1
+  }
+}

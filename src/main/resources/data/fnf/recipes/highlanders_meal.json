@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients":[
+    {
+      "item": "minecraft:sweet_berries"
+    },
+    {
+      "item": "minecraft:oxeye_daisy"
+    },
+    {
+      "item": "fnf:mushroom_mutton_stew"
+    }
+  ],
+  "result": {
+    "item": "fnf:highlanders_meal",
+    "count": 1
+  }
+}

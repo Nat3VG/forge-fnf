@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients":[
+    {
+      "item": "minecraft:glow_berries"
+    },
+    {
+      "item": "minecraft:sunflower"
+    },
+    {
+      "item": "fnf:piping_hot_rabbit_stew"
+    }
+  ],
+  "result": {
+    "item": "fnf:nether_dwellers_subsistence",
+    "count": 1
+  }
+}
