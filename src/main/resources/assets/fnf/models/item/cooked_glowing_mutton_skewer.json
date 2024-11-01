@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "fnf:item/cooked_glowing_mutton_skewer"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:smelting",
+  "cookingtime": 200,
+  "experience": 0.35,
+  "ingredient": {
+    "item": "fnf:raw_pork_skewer"
+  },
+  "result": {
+    "id": "fnf:cooked_pork_skewer"
+  }
+}

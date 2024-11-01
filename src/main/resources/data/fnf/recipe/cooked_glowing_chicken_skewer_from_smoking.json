@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:smoking",
+  "cookingtime": 100,
+  "experience": 0.35,
+  "ingredient": {
+    "item": "fnf:raw_glowing_chicken_skewer"
+  },
+  "result": {
+    "id": "fnf:cooked_glowing_chicken_skewer"
+  }
+}

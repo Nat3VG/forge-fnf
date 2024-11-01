@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " B ",
+    "BOB",
+    " B "
+  ],
+  "key":{
+    "B": {
+      "item": "minecraft:cookie"
+    },
+    "O": {
+      "item": "minecraft:honey_bottle"
+    }
+  },
+  "result": {
+    "id": "fnf:honeyed_cookie",
+    "count": 4
+  }
+}

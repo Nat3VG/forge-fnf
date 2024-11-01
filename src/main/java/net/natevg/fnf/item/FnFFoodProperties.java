@@ -86,7 +86,20 @@ public class FnFFoodProperties {
             .nutrition(8)
             .saturationModifier(0.8F)
             .effect(new MobEffectInstance(MobEffects.DAMAGE_BOOST, MEDIUM), 1.0F)
-            .effect(new MobEffectInstance(MobEffects.HEAL, 0), 1.0F)
+            .effect(new MobEffectInstance(MobEffects.HEAL), 1.0F)
+            .build();
+    public static final FoodProperties HONEYED_COOKIE = new FoodProperties.Builder()
+            .nutrition(2).saturationModifier(0.1F)
+            .effect(new MobEffectInstance(MobEffects.MOVEMENT_SPEED, MEDIUM), 1.0F)
+            .effect(new MobEffectInstance(MobEffects.HEAL), 1.0F)
+            .fast().alwaysEdible()
+            .build();
+    public static final FoodProperties HONEY_POPPED_CHORUS_FRUIT = new FoodProperties.Builder()
+            .nutrition(4).saturationModifier(0.3F)
+            .effect(new MobEffectInstance(MobEffects.LEVITATION, BRIEF), 1.0F)
+            .effect(new MobEffectInstance(MobEffects.SLOW_FALLING, SHORT), 1.0F)
+            .effect(new MobEffectInstance(MobEffects.HEAL), 1.0F)
+            .alwaysEdible()
             .build();
 
     //Kelp-Wrapped Foods
@@ -232,9 +245,65 @@ public class FnFFoodProperties {
             .effect(new MobEffectInstance(MobEffects.REGENERATION, LONG), 1.0F)
             .build();
 
+    //Skewers
+    public static final FoodProperties RAW_MEAT_SKEWER = fnfskewer(3)
+            .effect(new MobEffectInstance(MobEffects.MOVEMENT_SPEED, EX_BRIEF), 1.0F).build();
+    public static final FoodProperties RAW_GLOWING_MEAT_SKEWER = fnfskewer(3)
+            .effect(new MobEffectInstance(MobEffects.GLOWING, EX_BRIEF), 1.0F).build();
+    public static final FoodProperties COOKED_BEEF_SKEWER = fnfskewer(6)
+            .effect(new MobEffectInstance(MobEffects.DAMAGE_BOOST, SHORT), 1.0F)
+            .effect(new MobEffectInstance(MobEffects.MOVEMENT_SPEED, SHORT,1), 1.0F)
+            .build();
+    public static final FoodProperties COOKED_MUTTON_SKEWER = fnfskewer(6)
+            .effect(new MobEffectInstance(MobEffects.DAMAGE_RESISTANCE, SHORT), 1.0F)
+            .effect(new MobEffectInstance(MobEffects.MOVEMENT_SPEED, SHORT,1), 1.0F)
+            .build();
+    public static final FoodProperties COOKED_PORK_SKEWER = fnfskewer(6)
+            .effect(new MobEffectInstance(MobEffects.REGENERATION, SHORT), 1.0F)
+            .effect(new MobEffectInstance(MobEffects.MOVEMENT_SPEED, SHORT,1), 1.0F)
+            .build();
+    public static final FoodProperties COOKED_CHICKEN_SKEWER = fnfskewer(6)
+            .effect(new MobEffectInstance(MobEffects.SLOW_FALLING, SHORT), 1.0F)
+            .effect(new MobEffectInstance(MobEffects.MOVEMENT_SPEED, SHORT,1), 1.0F)
+            .build();
+    public static final FoodProperties COOKED_RABBIT_SKEWER = fnfskewer(6)
+            .effect(new MobEffectInstance(MobEffects.JUMP, SHORT), 1.0F)
+            .effect(new MobEffectInstance(MobEffects.MOVEMENT_SPEED, SHORT,1), 1.0F)
+            .build();
+    public static final FoodProperties COOKED_GLOWING_BEEF_SKEWER = fnfskewer(6)
+            .effect(new MobEffectInstance(MobEffects.DAMAGE_BOOST, SHORT), 1.0F)
+            .effect(new MobEffectInstance(MobEffects.DIG_SPEED, SHORT,1), 1.0F)
+            .effect(new MobEffectInstance(MobEffects.NIGHT_VISION, SHORT), 1.0F)
+            .build();
+    public static final FoodProperties COOKED_GLOWING_MUTTON_SKEWER = fnfskewer(6)
+            .effect(new MobEffectInstance(MobEffects.DAMAGE_RESISTANCE, SHORT), 1.0F)
+            .effect(new MobEffectInstance(MobEffects.DIG_SPEED, SHORT,1), 1.0F)
+            .effect(new MobEffectInstance(MobEffects.NIGHT_VISION, SHORT), 1.0F)
+            .build();
+    public static final FoodProperties COOKED_GLOWING_PORK_SKEWER = fnfskewer(6)
+            .effect(new MobEffectInstance(MobEffects.REGENERATION, SHORT), 1.0F)
+            .effect(new MobEffectInstance(MobEffects.DIG_SPEED, SHORT,1), 1.0F)
+            .effect(new MobEffectInstance(MobEffects.NIGHT_VISION, SHORT), 1.0F)
+            .build();
+    public static final FoodProperties COOKED_GLOWING_CHICKEN_SKEWER = fnfskewer(6)
+            .effect(new MobEffectInstance(MobEffects.SLOW_FALLING, SHORT), 1.0F)
+            .effect(new MobEffectInstance(MobEffects.DIG_SPEED, SHORT,1), 1.0F)
+            .effect(new MobEffectInstance(MobEffects.NIGHT_VISION, SHORT), 1.0F)
+            .build();
+    public static final FoodProperties COOKED_GLOWING_RABBIT_SKEWER = fnfskewer(6)
+            .effect(new MobEffectInstance(MobEffects.JUMP, SHORT), 1.0F)
+            .effect(new MobEffectInstance(MobEffects.DIG_SPEED, SHORT,1), 1.0F)
+            .effect(new MobEffectInstance(MobEffects.NIGHT_VISION, SHORT), 1.0F)
+            .build();
+
     //Modded Stew Method
     private static FoodProperties.Builder fnfstew(int pNutrition) {
         return new FoodProperties.Builder().nutrition(pNutrition).saturationModifier(1F).alwaysEdible().usingConvertsTo(Items.BOWL);
+    }
+
+    //Modded Skewer Method
+    private static FoodProperties.Builder fnfskewer(int pNutrition) {
+        return new FoodProperties.Builder().nutrition(pNutrition).saturationModifier(0.3F).fast().alwaysEdible().usingConvertsTo(Items.STICK);
     }
 
 }

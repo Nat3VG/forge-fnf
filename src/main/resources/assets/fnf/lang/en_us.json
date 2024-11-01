@@ -15,6 +15,8 @@
   "item.fnf.honeyed_mutton": "Honeyed Mutton",
   "item.fnf.honeyed_porkchop": "Honeyed Porkchop",
   "item.fnf.honeyed_steak": "Honeyed Steak",
+  "item.fnf.honeyed_cookie": "Honeyed Cookie",
+  "item.fnf.honey_popped_chorus_fruit": "Honey-Popped Chorus Fruit",
 
   "item.fnf.kelp_wrapped_cod": "Kelp-Wrapped Cod",
   "item.fnf.kelp_wrapped_salmon": "Kelp-Wrapped Salmon",
@@ -43,6 +45,30 @@
   "item.fnf.nether_dwellers_subsistence": "Nether Dweller's Subsistence",
   "item.fnf.lucky_star": "Lucky Star",
   "item.fnf.fishermans_secret_broth": "Fisherman's Secret Broth",
+
+  "item.fnf.raw_beef_skewer": "Raw Beef Skewer",
+  "item.fnf.raw_chicken_skewer": "Raw Chicken Skewer",
+  "item.fnf.raw_mutton_skewer": "Raw Mutton Skewer",
+  "item.fnf.raw_pork_skewer": "Raw Pork Skewer",
+  "item.fnf.raw_rabbit_skewer": "Raw Rabbit Skewer",
+
+  "item.fnf.cooked_beef_skewer": "Cooked Beef Skewer",
+  "item.fnf.cooked_chicken_skewer": "Cooked Chicken Skewer",
+  "item.fnf.cooked_mutton_skewer": "Cooked Mutton Skewer",
+  "item.fnf.cooked_pork_skewer": "Cooked Pork Skewer",
+  "item.fnf.cooked_rabbit_skewer": "Cooked Rabbit Skewer",
+
+  "item.fnf.raw_glowing_beef_skewer": "Raw Glowing Beef Skewer",
+  "item.fnf.raw_glowing_chicken_skewer": "Raw Glowing Chicken Skewer",
+  "item.fnf.raw_glowing_mutton_skewer": "Raw Glowing Mutton Skewer",
+  "item.fnf.raw_glowing_pork_skewer": "Raw Glowing Pork Skewer",
+  "item.fnf.raw_glowing_rabbit_skewer": "Raw Glowing Rabbit Skewer",
+
+  "item.fnf.cooked_glowing_beef_skewer": "Cooked Glowing Beef Skewer",
+  "item.fnf.cooked_glowing_chicken_skewer": "Cooked Glowing Chicken Skewer",
+  "item.fnf.cooked_glowing_mutton_skewer": "Cooked Glowing Mutton Skewer",
+  "item.fnf.cooked_glowing_pork_skewer": "Cooked Glowing Pork Skewer",
+  "item.fnf.cooked_glowing_rabbit_skewer": "Cooked Glowing Rabbit Skewer",
 
   "item.fnf.paper_stack": "Paper Stack",
   "item.fnf.bio_fuel": "Biofuel",

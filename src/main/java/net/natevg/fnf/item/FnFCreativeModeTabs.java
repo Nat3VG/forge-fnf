@@ -30,6 +30,8 @@ public class FnFCreativeModeTabs {
                         output.accept(ItemRegistries.HONEYED_PORKCHOP.get());
                         output.accept(ItemRegistries.HONEYED_STEAK.get());
                         output.accept(ItemRegistries.HONEYED_POTATO.get());
+                        output.accept(ItemRegistries.HONEYED_COOKIE.get());
+                        output.accept(ItemRegistries.HONEY_POPPED_CHORUS_FRUIT.get());
 
                         output.accept(ItemRegistries.KELP_WRAPPED_COD.get());
                         output.accept(ItemRegistries.KELP_WRAPPED_SALMON.get());
@@ -58,6 +60,30 @@ public class FnFCreativeModeTabs {
                         output.accept(ItemRegistries.NETHER_DWELLERS_SUBSISTENCE.get());
                         output.accept(ItemRegistries.LUCKY_STAR.get());
                         output.accept(ItemRegistries.FISHERMANS_SECRET_BROTH.get());
+
+                        output.accept(ItemRegistries.RAW_BEEF_SKEWER.get());
+                        output.accept(ItemRegistries.RAW_CHICKEN_SKEWER.get());
+                        output.accept(ItemRegistries.RAW_MUTTON_SKEWER.get());
+                        output.accept(ItemRegistries.RAW_PORK_SKEWER.get());
+                        output.accept(ItemRegistries.RAW_RABBIT_SKEWER.get());
+
+                        output.accept(ItemRegistries.COOKED_BEEF_SKEWER.get());
+                        output.accept(ItemRegistries.COOKED_CHICKEN_SKEWER.get());
+                        output.accept(ItemRegistries.COOKED_MUTTON_SKEWER.get());
+                        output.accept(ItemRegistries.COOKED_PORK_SKEWER.get());
+                        output.accept(ItemRegistries.COOKED_RABBIT_SKEWER.get());
+
+                        output.accept(ItemRegistries.RAW_GLOWING_BEEF_SKEWER.get());
+                        output.accept(ItemRegistries.RAW_GLOWING_CHICKEN_SKEWER.get());
+                        output.accept(ItemRegistries.RAW_GLOWING_MUTTON_SKEWER.get());
+                        output.accept(ItemRegistries.RAW_GLOWING_PORK_SKEWER.get());
+                        output.accept(ItemRegistries.RAW_GLOWING_RABBIT_SKEWER.get());
+
+                        output.accept(ItemRegistries.COOKED_GLOWING_BEEF_SKEWER.get());
+                        output.accept(ItemRegistries.COOKED_GLOWING_CHICKEN_SKEWER.get());
+                        output.accept(ItemRegistries.COOKED_GLOWING_MUTTON_SKEWER.get());
+                        output.accept(ItemRegistries.COOKED_GLOWING_PORK_SKEWER.get());
+                        output.accept(ItemRegistries.COOKED_GLOWING_RABBIT_SKEWER.get());
 
                         //Fuel Items
                         output.accept(ItemRegistries.PAPER_STACK.get());

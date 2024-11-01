@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "fnf:item/honey_popped_chorus_fruit"
+  }
+}

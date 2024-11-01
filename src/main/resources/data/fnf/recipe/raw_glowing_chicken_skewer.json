@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "  B",
+    " M ",
+    "S  "
+  ],
+  "key":{
+    "B": {
+      "item": "minecraft:glow_berries"
+    },
+    "S": {
+      "item": "minecraft:stick"
+    },
+    "M": {
+      "item": "minecraft:chicken"
+    }
+  },
+  "result": {
+    "id": "fnf:raw_glowing_chicken_skewer",
+    "count": 1
+  }
+}
